@@ -105,4 +105,4 @@ Released under the MIT License. Add a `LICENSE` file to the repository to apply 
 
 ## Author
 
-Your Name · [GitHub](https://github.com/<your-username>) · [LinkedIn](https://www.linkedin.com/in/<your-profile>)
+Your Name ·Harshit Dubey
